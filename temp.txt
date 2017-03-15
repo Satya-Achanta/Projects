@@ -1,0 +1,15 @@
+arg0=arg1=arg3====
+
+xyz=abc
+
+abcd=234
+
+prop11=abc
+prop12=10
+prop13=10
+prop14=xyz14
+
+prop1=xyz1
+
+prop3=10
+
